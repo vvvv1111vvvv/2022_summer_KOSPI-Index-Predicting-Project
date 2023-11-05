@@ -5,16 +5,22 @@ Analyze the correlation between the KOSPI index and economic indicators and use 
 Date Created :2022.06.28 ~ 2022.07.18
 
 
+
+
 ## 🗨 Participants :
 Park Su Young (mak8mgt07@naver.com, https://github.com/vvvv1111vvvv)
 
 Lee Donghwan(hwany1227@gmail.com,www.linkedin.com/in/donghwanlee7)
 
 
+
+
 ## 🚨 Roles :
 Park Su Young : KOSPI Index Crawling/Processing, Data Correlation Analysis, Deep Learning & Performance Analysis
 
 Lee Donghwan : Building Macroeconomics Index DB, Implementing Risk Analysis.
+
+
 
 
 
