@@ -1,19 +1,24 @@
 # 🚀 KOSPI-Index-Predicting-Project__2022-summer
 
-###Purpose : Analyze the correlation between the KOSPI index and economic indicators and use deep learning to predict the future KOSPI index.
 
-###Participants :
+##Purpose : Analyze the correlation between the KOSPI index and economic indicators and use deep learning to predict the future KOSPI index.
+
+
+##Participants :
 Park Su Young (mak8mgt07@naver.com, https://github.com/vvvv1111vvvv)
 Lee Donghwan(hwany1227@gmail.com,www.linkedin.com/in/donghwanlee7)
 
-###Date Created :
+
+##Date Created :
 2022.06.28 ~ 2022.07.18
 
-###Roles :
+
+##Roles :
 Park Su Young : KOSPI Index Crawling/Processing, Data Correlation Analysis, Deep Learning & Performance Analysis
 Lee Donghwan : Building Macroeconomics Index DB, Implementing Risk Analysis.
 
-###Method:
+
+##Method:
 (1) Crawl economic indicators on the Bank of Korea's web page and process them.
 (2) Crawls the KOSPI index on the Naver finance and processes it
 (3) Collect and Organize the data obtained in the previous step based on the business days between 2015.07.24 and 2022.07.01"
